@@ -3,8 +3,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    background-color: #fbca93;
-    border-bottom: 1px solid #e0b07a;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(136, 201, 245));;
+    border-bottom: 1px solid #0a253f;
     margin-bottom: 3rem;
   }
   
